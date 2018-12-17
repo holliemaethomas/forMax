@@ -3,10 +3,11 @@
       float: none;
       width: 100%;
   }
+  max-width: 100%;
 }
 body {
-  background-image: url("images/galaxy10.jpg");
-  font-size: 16pt;
+  background-image: url("images/blugalaxy.jpg");
+  font-size: 25pt;
   font-family: 'Arvo', serif;
   text-align: center;
   
@@ -17,15 +18,15 @@ body {
   display: block;
   background-color: rgb(125, 52, 221);
   opacity: .5;
-  color: rgb(26, 3, 44);
+  font-family: fantasy;
+  font-size: 45pt;
+  color: aliceblue;
   margin-left: auto;
   margin-right: auto;
   margin-top: 5%;
 
 
 }
- 
-
 
 
 #logo{
@@ -37,15 +38,6 @@ body {
 }
 
 
-
-#imageContainer{
-  display: block;
-}
-
-#panda{
-  height:85pt;
-  width:50pt;
-}
 
 /* Add a black background color to the top navigation */
 .topnav {
