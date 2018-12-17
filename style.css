@@ -15,8 +15,6 @@ body {
 
 #main{
   display: block;
-  background-color: rgb(125, 52, 221);
-  opacity: .5;
   font-family: fantasy;
   font-size: 45pt;
   color: aliceblue;
