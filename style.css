@@ -11,7 +11,6 @@ body {
   font-family: 'Arvo', serif;
   text-align: center;
   
-  
 }
 
 #main{
@@ -24,8 +23,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 5%;
-
-
 }
 
 
@@ -65,4 +62,29 @@ body {
 .topnav a.active {
   background-color: rgb(228, 174, 226);
   color: white;
+}
+
+fieldset {
+  width: 400px;
+  padding: 30px;
+  text-align: center;
+  margin: auto;
+}
+
+#emailForm {
+  color: #b9dae3;
+  font-weight: 300;
+}
+
+#imgContainer {
+  display: block;
+  margin: auto;
+}
+
+#contact {
+  color: aliceblue;
+}
+
+#link{
+  color: aliceblue;
 }
